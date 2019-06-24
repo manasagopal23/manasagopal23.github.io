@@ -5,7 +5,7 @@ main:
       - page: Working Papers
         url: /publications/
       - page: Work in Progress
-        url: /publications/
+        url: /wp/
   
 #   - title: "Talks"
 #     url: /talks/    
