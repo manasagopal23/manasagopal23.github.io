@@ -2,10 +2,10 @@
 main:
   - title: "Research"
     subfolderitems:
-      -page: Working Papers
-       url: /publications/
-      -page: Work in Progress
-       url: /publications/
+      - page: Working Papers
+        url: /publications/
+      - page: Work in Progress
+        url: /publications/
   
 #   - title: "Talks"
 #     url: /talks/    
