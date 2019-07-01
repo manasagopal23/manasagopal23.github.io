@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-corp_fin
 venue: "NYU Stern"
-date: Summer 2018=7
+date: Summer 2017
 
 ---
 
