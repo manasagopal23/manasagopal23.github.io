@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   email            : "mgopal@stern.nyu.edu"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "manasagopal23"
   google_plus      :
   keybase          :
   instagram        :
@@ -105,7 +105,7 @@ author:
   linkedin         : "manasa-gopal-80327815"
   orcid            : 
   pinterest        :
-  skype            : "manasa.gopal23"
+  skype            : "manasa.gopal23?chat"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
