@@ -4,7 +4,8 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-corp_fin
 venue: "NYU Stern"
-date: Summer 2017
+date: 07-01-2017
+location: City, country
 
 ---
 
