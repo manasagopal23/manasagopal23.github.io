@@ -3,9 +3,9 @@ main:
   - title: "Research"
     subfolderitems:
       - page: Working Papers
-        url: /publications/
+        url: /research/working_papers/
       - page: Work in Progress
-        url: /wp/
+        url: /research/wp/ 
   
 #   - title: "Talks"
 #     url: /talks/    
