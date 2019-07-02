@@ -8,9 +8,8 @@ date: 07-01-2017
 ---
 
 <ul>
-  <li>Sole instructor for the undergraduate course in Corporate Finance.</li> [Syllabus](http://manasagopal23.github.io/files/Syllabus_updated.pdf)  
+  <li>Sole instructor for the undergraduate course in Corporate Finance.<a href="http://manasagopal23.github.io/files/Syllabus_updated.pdf">Syllabus</a> </li> 
   <li>Rating : 6.3/7.0</li> 
   <li>Awarded Commendation for Teaching Excellence</li>   [Evaluations](http://manasagopal23.github.io/files/Evaluations.pdf) 
-</ul>
-
+</ul> 
 
