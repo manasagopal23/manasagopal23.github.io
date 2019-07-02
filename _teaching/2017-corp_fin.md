@@ -7,14 +7,13 @@ venue: "NYU Stern"
 date: 07-01-2017
 ---
 
-Sole instructor for the undergraduate course in Corporate Finance. 
 
 [Syllabus](http://manasagopal23.github.io/files/Syllabus_updated.pdf)
 
-Rating : 6.3/7.0
-
-Awarded Commendation for Teaching Excellence 
-
-[Evaluations](http://manasagopal23.github.io/files/Evaluations.pdf)
-
+<ul>
+  <li>Sole instructor for the undergraduate course in Corporate Finance.</li> 
+  <li>Rating : 6.3/7.0</li> 
+  <li>Awarded Commendation for Teaching Excellence</li>  
+  <li>[Evaluations](http://manasagopal23.github.io/files/Evaluations.pdf)</li> 
+</ul>
 
