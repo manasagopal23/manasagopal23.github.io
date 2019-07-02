@@ -7,4 +7,5 @@ author_profile: true
 
 {% for post in site.teaching %} 
       {% assign sortedPosts = site.teaching | sort:'title' %}  
+      {% include archive-single.html %}
 {% endfor %}
