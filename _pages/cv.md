@@ -14,14 +14,10 @@ Education
 * Ph.D, Finance, NYU Stern, 2020 (expected)
 * M.Phil., Finance, NYU Stern, 2018
 * M.Sc. (Hons.), Economics, Birla Institute of Technology & Science (Pilani), India, 2014 
-<ul>
-  <li>Awarded Distinction</li>
- </ul>
+  *Awarded Distinction
 * B.E. (Hons.), Electrical and Electronics Engineering, Birla Institute of Technology & Science (Pilani), India, 2014
-<ul>
-  <li>Specilization: Microelectronic Circuits</li>
-  <li>Awarded Distinction</li>
- </ul>
+  *Specilization: Microelectronic Circuits
+  *Awarded Distinction
 
 Research
 ======
