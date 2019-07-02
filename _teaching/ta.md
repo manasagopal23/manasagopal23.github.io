@@ -2,7 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 venue: "NYU Stern"
-
+date: 01-2016
 ---
 
 Risk Management in Financial Institutions
