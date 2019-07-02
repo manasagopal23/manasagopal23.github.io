@@ -14,7 +14,7 @@ Teaching Evaluation
 
 Rating : 6.3/7.0
 Awarded Commendation for Teaching Excellence 
-Evaluations :  'http://manasagopal23.github.io/files/Evaluations.pdf'
+Evaluations :  paperurl: 'http://manasagopal23.github.io/files/Evaluations.pdf'
 
 
 Syllabus 
