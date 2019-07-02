@@ -14,10 +14,10 @@ Education
 * Ph.D, Finance, NYU Stern, 2020 (expected)
 * M.Phil., Finance, NYU Stern, 2018
 * M.Sc. (Hons.), Economics, Birla Institute of Technology & Science (Pilani), India, 2014 
-  *Awarded Distinction
+  * Awarded Distinction
 * B.E. (Hons.), Electrical and Electronics Engineering, Birla Institute of Technology & Science (Pilani), India, 2014
-  *Specilization: Microelectronic Circuits
-  *Awarded Distinction
+  * Specilization: Microelectronic Circuits
+  * Awarded Distinction
 
 Research
 ======
@@ -25,26 +25,20 @@ Research
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Work experience
+Awards and Fellowships
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer Dissertation Internship, Federal Reserve Bank of New York, 2019
+* American Finance Association, Travel Grant, 2019
+* Marcus Nadler Fellowship, NYU Stern, 2018-2019
+* NYU Stern Teaching Commendation, 2017
+* NYU Stern Doctoral Fellowship, NYU Stern, 2014-2018 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * C, C++, Visual Basic, Python, Perl, PHP
+* Tools
+  * STATA, SAS, LATEX, MATLAB, MySQL
 
   
 Teaching
