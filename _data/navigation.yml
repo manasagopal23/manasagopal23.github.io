@@ -1,11 +1,7 @@
 # main links links
 main:
   - title: "Research"
-    subfolderitems:
-      - page: Working Papers
-        url: /research/working_papers/
-      - page: Work in Progress
-        url: /research/wp/ 
+    url: /research/
   
 #   - title: "Talks"
 #     url: /talks/    
