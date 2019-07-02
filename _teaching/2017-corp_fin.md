@@ -7,7 +7,7 @@ venue: "NYU Stern"
 date: 07-01-2017
 ---
 
-Sole instructor for the undergraduate course in Corporate Finance, Summer 2018. 
+Sole instructor for the undergraduate course in Corporate Finance. 
 
 [Syllabus](http://manasagopal23.github.io/files/Syllabus_updated.pdf)
 
