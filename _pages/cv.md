@@ -32,7 +32,12 @@ Awards and Fellowships
 * Marcus Nadler Fellowship, NYU Stern, 2018-2019
 * NYU Stern Teaching Commendation, 2017
 * NYU Stern Doctoral Fellowship, NYU Stern, 2014-2018 
-  
+
+Other Information
+=======
+* Special Sworn Status, Census Bureau, 2018 - 
+* Princeton Initiative: Macro, Money, and Finance, 2016 
+
 Skills
 ======
 * Programming Languages
