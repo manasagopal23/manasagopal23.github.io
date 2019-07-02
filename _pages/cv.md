@@ -11,10 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D, Finance, Leonard N. Stern School of Business, New York University, 2020 (expected)
-* M.Phil., Finance, Leonard N. Stern School of Business, New York University, 2018
+* Ph.D, Finance, NYU Stern, 2020 (expected)
+* M.Phil., Finance, NYU Stern, 2018
 * M.Sc. (Hons.), Economics, Birla Institute of Technology & Science (Pilani), India, 2014 
+<ul>
+  <li>Awarded Distinction</li>
+ </ul>
 * B.E. (Hons.), Electrical and Electronics Engineering, Birla Institute of Technology & Science (Pilani), India, 2014
+<ul>
+  <li>Specilization: Microelectronic Circuits</li>
+  <li>Awarded Distinction</li>
+ </ul>
 
 Research
 ======
