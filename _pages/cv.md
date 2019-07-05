@@ -24,7 +24,7 @@ Education
 
 Research
 ======
-  <ul>{% for post in site.research %}
+  <ul>{% for post in site.research reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
