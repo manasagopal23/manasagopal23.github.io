@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Dowload Full CV here]{/files/Manasa_Gopal_CV.pdf}
+
 Education
 ======
 * Ph.D, Finance, NYU Stern, 2020 (expected)
