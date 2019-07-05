@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-[Dowload Full CV here]("http://manasagopal23.github.io/files/Manasa_Gopal_CV.pdf")
+<u><a href="{http://manasagopal23.github.io/files/Manasa_Gopal_CV.pdf}" target=_blank>Dowload Full CV here</a>.</u>
+
 
 Education
 ======
