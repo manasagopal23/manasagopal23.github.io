@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-<div style="float:left"><img src='/images/Figure1_agg_plot.png' width='30%' height='30%'></div>
-<div style="float:right">I am a PhD candidate in Finance at the Stern School of Business, New York University </div>
-<div style="clear:both"/>
+<p><img src=/images/Figure1_agg_plot.png' class="left">I am a PhD candidate in Finance at the Stern School of Business, New York University.</p>
