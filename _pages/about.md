@@ -16,5 +16,8 @@ redirect_from:
 
 <p float="left">
   <img src="/images/Figure1_agg_plot.png" width="50%" height="50%">
+</p>
+<p float="right">
   I am a PhD candidate in Finance at the Stern School of Business, New York University. I will be available for interviews at the ASSA Meetings in San Diego, 2020.
 </p>
+
