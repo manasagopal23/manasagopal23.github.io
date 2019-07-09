@@ -13,7 +13,7 @@ main:
 #     url: /portfolio/
         
   - title: "Data/Code"
-    url: /year-archive/
+    url: /data/
     
   - title: "CV"
     url: /cv/
