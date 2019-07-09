@@ -62,5 +62,8 @@
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
 
+    {% if post.coauthor %}
+      <p>Coauthors: {{ post.coauthor }} </p>
+    {% endif %}
   </article>
 </div>
