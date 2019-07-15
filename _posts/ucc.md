@@ -29,6 +29,16 @@ Evidence from Public Records of Equipment Financing". Working Paper.
 
 provides a description of the California data 
 
+Data Cleaning
+-------
+
+Below are some tips to keep in my mind while processing the UCC data for use
+
+<ul>
+  <li> UCC-1 filings are made to stake claim on a debtor's property - </li>
+    
+</ul>
+
 
 Comparison to CRA Data
 =========
