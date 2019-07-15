@@ -1,6 +1,7 @@
 ---
 title: 'Lending Data from UCC-1 Filings'
 permalink: /posts/UCC/
+date: 07-15-2019
 tags:
   - data
   - ucc
