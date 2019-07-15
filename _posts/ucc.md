@@ -1,7 +1,7 @@
 ---
 title: 'Lending Data from UCC-1 Filings'
 permalink: /posts/UCC/
-date: 07-15-2019
+date: 2019-07-15
 tags:
   - data
   - ucc
@@ -10,11 +10,13 @@ tags:
 
 ---
 
-This file describes the institutional details behind the Uniform Commercial Code and describes datasources for researchers interested in secured lending in the U.S.
+This file describes the institutional details behind the Uniform Commercial Code and describes data sources for researchers interested in studying secured lending in the U.S.
 
+While most of this post focuses on business lending, UCC-1 filings are made for individual debtors as well and can be accessed similarity from sources desbribed below 
 
 Uniform Commercial Code 
 ======
+
 
 
 
@@ -24,10 +26,11 @@ Texas Data
 California Data
 ------
 
+For  a detailed description of the California data, please refer to:
+
 Edgerton, Jesse, 2012. "Credit Supply and Business Investment During the Great Recession: 
 Evidence from Public Records of Equipment Financing". Working Paper.
 
-provides a description of the California data 
 
 Data Cleaning
 -------
