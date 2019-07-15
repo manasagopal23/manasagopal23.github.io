@@ -23,6 +23,8 @@ Uniform Commercial Code
 Texas Data
 ------
 
+Bulk download of the Texas data can be obtained from the Texas Secretary of State Website here https://direct.sos.state.tx.us/help/help-ucc.asp?pg=bulk
+
 California Data
 ------
 
