@@ -53,12 +53,18 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
+$violet                     : #9900ff
+$dark-violet                  : mix(#000, $gray, 40%);
+$darker-violet                : mix(#000, $gray, 60%);
+$light-violet                 : mix(#fff, $gray, 50%);
+$lighter-violet               : mix(#fff, $gray, 90%);
+
 $body-color                 : #fff;
 $background-color           : #fff;
 $code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$code-background-color-dark : $light-violet;
+$text-color                 : $dark-violet;
+$border-color               : $lighter-violet;
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
@@ -87,7 +93,7 @@ $vimeo-color                : #1ab7ea;
 $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
-
+$skype-color                : #00aff0;
 
 /* links */
 $link-color                 : $info-color;
