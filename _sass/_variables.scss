@@ -54,10 +54,10 @@ $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $violet                     : #9900ff
-$dark-violet                  : mix(#000, $gray, 40%);
-$darker-violet                : mix(#000, $gray, 60%);
-$light-violet                 : mix(#fff, $gray, 50%);
-$lighter-violet               : mix(#fff, $gray, 90%);
+$dark-violet                : mix(#000, $violet, 40%);
+$darker-violet              : mix(#000, $violet, 60%);
+$light-violet               : mix(#fff, $violet, 50%);
+$lighter-violet             : mix(#fff, $violet, 90%);
 
 $body-color                 : #fff;
 $background-color           : #fff;
