@@ -93,7 +93,7 @@
 
       &.current {
         color: #fff;
-        background: $primary-color;
+        background: $lighter-violet;
       }
 
       &.disabled {
@@ -175,7 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $primary-color;
+  background: $lighter-violet;
 
   a {
     display: block;
