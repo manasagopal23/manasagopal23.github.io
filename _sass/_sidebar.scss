@@ -32,6 +32,7 @@
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
     font-family: $sans-serif-narrow;
+    font-color: $violet; 
   }
 
   h3, h4 {
@@ -119,6 +120,7 @@
 .sidebar .author__name {
   font-family: $sans-serif;
   font-size: $type-size-5;
+  font-color:$violet; 
 }
 
 .author__bio {
