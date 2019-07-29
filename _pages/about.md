@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 
-I am a PhD candidate in Finance at the Stern School of Business, New York University. I will be available for interviews at the ASSA Meetings in San Diego, 2020.
+I am a PhD candidate in Finance at the Leonard N. Stern School of Business, New York University. I will be available for interviews at the ASSA Meetings in San Diego, January 2020.
 
 
