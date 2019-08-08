@@ -24,7 +24,7 @@
     <ul class="author__urls social-icons">
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> <p class="author__location_long1">{{ author.location_long1 }}</p></li>
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> <div style="width:300px; text-align:justify; word-break:break-all;">{{ author.location_long1 }}</p></li>
         <li>{{   author.location_long2 }}</li>
         <li>{{   author.location_long3 }}</li>
       {% endif %}
