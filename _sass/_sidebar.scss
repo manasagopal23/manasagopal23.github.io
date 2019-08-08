@@ -132,6 +132,18 @@
   }
 }
 
+
+.author__location {
+  margin: 0;
+
+  @include breakpoint($large) {
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+}
+
+
+
 .author__urls-wrapper {
   position: relative;
   display: table-cell;
