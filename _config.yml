@@ -84,7 +84,9 @@ author:
   avatar           : "Manasa1 (5 of 47).jpg"
   bio              : "PhD Candidate, Finance, NYU Stern"
   location         : "44 W 4th St, New York"
-  location_long    : "44 W 4th St, Suite 9-197I, New York, NY - 10012"
+  location_long1   : "44 W 4th St"
+  location_long2   : "Suite 9-197I"
+  location_long3   : "New York, NY - 10012"
   employer         :
   pubmed           : 
   email            : "mgopal@stern.nyu.edu"
