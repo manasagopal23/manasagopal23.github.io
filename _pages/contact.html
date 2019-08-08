@@ -7,10 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% if page.author and site.data.authors[page.author] %}
-  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
-{% endif %}
-
 <div itemscope itemtype="http://schema.org/Person">
 
   <div class="author__content">
@@ -44,7 +40,7 @@ author_profile: true
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
-{% endif %}
+      {% endif %}
     </ul>
   </div>
 </div>
