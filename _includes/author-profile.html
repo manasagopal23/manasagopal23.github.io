@@ -25,8 +25,8 @@
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> <p class="author__location_long1">{{ author.location_long1 }}</p></li>
-        <li><p class="author__location_long2">{{ author.location_long2 }}</p></li>
-        <li><p class="author__location_long3">{{ author.location_long3 }}</p></li>
+        <li>{{ author.location_long2 }}</li>
+        <li>{{ author.location_long3 }}</li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
