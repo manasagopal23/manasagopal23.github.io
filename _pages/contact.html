@@ -5,9 +5,16 @@ permalink: /contact/
 author_profile: true
 ---
 
+Address:
 <address>
 44 W 4th Street<br>
 Suite 9-197 I <br>
 New York, NY 10012<br>
 USA
 </address>
+
+Phone:
+{% if author.mobile %}
+        <li><i class="fa fa-fw fa-mobile" aria-hidden="true"></i>  {{ author.mobile }} </li>
+{% endif %}
+
