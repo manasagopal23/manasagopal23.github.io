@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD candidate in Finance at the Leonard N. Stern School of Business, New York University. I will be available for interviews at the ASSA Meetings in San Diego, January 2020.
+I am a PhD candidate in Finance at the Leonard N. Stern School of Business, New York University. My research interests lie in banking and financial intermediation. I study business lending in the U.S., with a special focus on the role of nonbanks in small business lending. 
+
 
 
