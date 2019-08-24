@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!--{% include base_path %}-->
 
 <a href= "/files/Manasa_Gopal_CV.pdf"  target="_blank"> Download Full CV Here</a> 
 
