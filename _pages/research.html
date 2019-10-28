@@ -9,12 +9,3 @@ author_profile: true
 {% for post in site.research reversed %}
   {% include archive-single-research.html %}
 {% endfor %}
-
-{% comment %}
-#
-#  Change date order by adding '| reversed'
-#  To sort by title or other variables use {% assign sorted_posts = category[1] | sort: 'title' %}
-#
-{% endcomment %}
-{% assign sorted_posts = category[1] | sort: 'order' %}
-{% endfor %}
