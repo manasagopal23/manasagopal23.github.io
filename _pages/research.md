@@ -17,7 +17,6 @@ Work in Progress
 ---------------	
 <ul>
   <li> The Rise of Finance Companies in U.S. Small Business Lending
-    <ul>
-      <li> Coauthors: Philipp Schnabl
+   Coauthors: Philipp Schnabl
   </li>
 </ul>
