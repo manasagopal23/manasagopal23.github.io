@@ -16,7 +16,7 @@ Working Papers
 Work in Progress
 ---------------	
 <ul>
-  <li> The Rise of Finance Companies in U.S. Small Business Lending
+  <li> The Rise of Finance Companies in U.S. Small Business Lending</br>
    Coauthors: Philipp Schnabl
   </li>
 </ul>
