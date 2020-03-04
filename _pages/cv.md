@@ -30,7 +30,7 @@ Research
   
 Awards and Fellowships
 ======
-* Best Student Paper, Young Scholars Finance Consortium, 2020
+* Best Student Paper, Texas A&M Young Scholars Finance Consortium, 2020
 * Lawrence G. Goldberg Prize in Financial Intermediation for the Best Dissertation in Financial Intermediation at NYU Stern, 2020
 * Summer Dissertation Internship, Federal Reserve Bank of New York, 2019
 * American Finance Association, Travel Grant, 2019
