@@ -11,6 +11,3 @@ author_profile: true
   {% include archive-single-research.html %}
 {% endfor %}
 
-<!--- Work in Progress
----------------	---!>
-
