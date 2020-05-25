@@ -14,7 +14,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D, Finance, NYU Stern, 2020 (expected)
+* Ph.D, Finance, NYU Stern, 2020 
 * M.Phil., Finance, NYU Stern, 2018
 * M.Sc. (Hons.), Economics, Birla Institute of Technology & Science (Pilani), India, 2014 
   * Awarded Distinction
