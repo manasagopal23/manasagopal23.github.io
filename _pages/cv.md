@@ -42,7 +42,7 @@ Presentations
 	
 * 2019 - NYU Stern Finance (x2), Federal Reserve Bank of New York (x2)
 	
-<sup>c</sup> - Postponed due to COVID-19</i>
+<i><sup>c</sup> - Postponed due to COVID-19</i>
 
 Awards and Fellowships
 ======
