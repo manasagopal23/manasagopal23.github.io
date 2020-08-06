@@ -37,12 +37,12 @@ Presentations
 * 2020 - Rochester (Simon), Georgia Tech (Scheller), University of Florida (Warrington), University of Houston (Bauer), 
 	Southern Methodist University (Cox), Indiana University (Kelley), Federal Reserve Bank of New York, 
 	Federal Reserve Board (Financial Structures, Financial Intermediaries Analysis), Johns Hopkins University (Carey), 
-	Indian School of Business, Texas A\&M Young Scholars Finance Consortium^c, Showcasing Women in Finance Conference^c, 
+	Indian School of Business, Texas A\&M Young Scholars Finance Consortium<sup>c</sup>, Showcasing Women in Finance Conference<sup>c</sup>, 
 	NYU Stern (Faculty Insights Series), Federal Reserve Board (Macroprudential Policy Analysis, scheduled) 
 	
 * 2019 - NYU Stern Finance (x2), Federal Reserve Bank of New York (x2)
 	
-<i>^c - Postponed due to COVID-19</i>
+<sup>c</sup> - Postponed due to COVID-19</i>
 
 Awards and Fellowships
 ======
