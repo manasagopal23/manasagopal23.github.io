@@ -20,5 +20,6 @@ I received my Ph.D. in Finance from the Leonard N. Stern School of Business, New
 <br>
 <br>
 <br>
+<br>
 
 <img src='/images/Scheller-MBA-Logo.png' height='50' width='250' align='left' margin-bottom='0cm' >
