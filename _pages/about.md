@@ -13,7 +13,6 @@ I am an Assistant Professor of Finance at the Scheller College of Business, Geor
 
 I received my Ph.D. in Finance from the Leonard N. Stern School of Business, New York University in May 2020. 
 
- br {
-    line-height: 65px;
- }
+<br style="line-height: 65px" />
+
 <img src='/images/Scheller-MBA-Logo.png' height='50' width='250' align='left' margin-bottom='0cm' >
