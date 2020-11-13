@@ -55,9 +55,13 @@
     {% endif %}
 
     {% if post.presentations %}
-      <p> <b>Presentations (including scheduled)</b>: {{ post.presentations }} </p>
+      <p> <b>Presentations (including scheduled and co-author presentations)</b>: {{ post.presentations }} </p>
     {% endif %}
     
+    {% if post.slides %}
+      <p>Slides <a href=" {{ post.slides }} "><u>here</u></a></p>
+    {% endif %}
+
     {% if post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
