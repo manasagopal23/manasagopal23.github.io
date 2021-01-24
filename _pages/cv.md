@@ -34,11 +34,15 @@ Research
 Presentations
 ====
 
+* <b>2021</b> - American Finance Association, Midwest Finance Association, ECB-RFS Macro-
+Finance Conference, Swiss Winter Finance Conference of Financial Intermediation (x2)
+
 * <b>2020</b> - Rochester (Simon), Georgia Tech (Scheller), University of Florida (Warrington), University of Houston (Bauer), 
 	Southern Methodist University (Cox), Indiana University (Kelley), Federal Reserve Bank of New York, 
 	Federal Reserve Board (Financial Structures, Financial Intermediaries Analysis), Johns Hopkins University (Carey), 
 	Indian School of Business, Texas A\&M Young Scholars Finance Consortium<sup>c</sup>, Showcasing Women in Finance Conference<sup>c</sup>, 
-	NYU Stern (Faculty Insights Series), Federal Reserve Board (Macroprudential Policy Analysis, <i>scheduled</i>) 
+	NYU Stern (Faculty Insights Series), Federal Reserve Board (Macroprudential Policy Analysis), Atlanta Fed and GSU Conference on Financial 
+	Stability and the  Coronavirus Pandemic, Nova SBE FinTech Conference, Australasian Finance and Banking Conference, Empirical Management Conference
 	
 * <b>2019</b> - NYU Stern Finance (x2), Federal Reserve Bank of New York (x2)
 	
