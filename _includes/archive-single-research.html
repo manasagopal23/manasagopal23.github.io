@@ -59,7 +59,7 @@
     {% endif %}
     
     {% if post.slides %}
-<p> <b>Slides</b>: <a href=" {{ post.slides }} "><u> Download here</u></a></p>
+    <p> <b>Slides</b>: <a href=" {{ post.slides }} "><u> Download here</u></a></p>
     {% endif %}
 
     {% if post.citation and post.paperurl %}
@@ -70,6 +70,9 @@
       <!--<p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>-->
     {% endif %}
 
+     {% if post.ia %}
+     <p> <b>Internet Appendix</b>: <a href=" {{ post.ia }} "><u> Download here</u></a></p>
+    {% endif %}
     
   </article>
 </div>
