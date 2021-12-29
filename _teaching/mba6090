@@ -5,6 +5,7 @@ type: "MBA"
 term: "Spring 2022"
 venue: "Scheller College of Business"
 date: 01-10-2022
+order: 1
 ---
 
 <ul>
