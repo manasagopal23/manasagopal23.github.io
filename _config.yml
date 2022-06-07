@@ -89,8 +89,8 @@ author:
   employer         :
   pubmed           : 
   email            : "manasa.gopal@scheller.gatech.edu"
-  mobile           : " +1 (646)-684-0214"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  mobile           : #" +1 (646)-684-0214"
+  googlescholar    : "https://scholar.google.com/citations?user=dH0fuPoAAAAJ&hl=en"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
