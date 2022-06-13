@@ -11,6 +11,7 @@ redirect_from:
 
 <a href= "https://manasagopal.com/files/Manasa_Gopal_CV.pdf"  target="_blank"> Download Full CV Here</a> 
 
+
 Appointments
 ====
 * Assistant Professor of Finance, Scheller College of Business, Georgia Tech, August 2020 - 
@@ -76,4 +77,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
