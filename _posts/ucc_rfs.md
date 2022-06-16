@@ -18,23 +18,28 @@ UCC DATA AND CODE
 
 The objective of this replication package is to provide researchers with a template to clean and aggregate data from raw UCC filings. If you make use of any part of our data or code, please cite
 
-Manasa Gopal, Philipp Schnabl, The Rise of Finance Companies and FinTech Lenders in Small Business Lending, The Review of Financial Studies, 2022;, hhac034, https://doi.org/10.1093/rfs/hhac034
+Manasa Gopal, Philipp Schnabl, The Rise of Finance Companies and FinTech Lenders in Small Business Lending, <i>The Review of Financial Studies</i>, 2022 
+
+Paper <a href = "https://doi.org/10.1093/rfs/hhac034"> here</a> 
 
 <h3> UCC Data Purchase </h3>
 
 The UCC data can be purchased by contacting –
-Company - Mailinglists.com
+
+Company - Mailinglists.com 
+
 Contact - BECKY SANTANIELLO
+
 Vice President, Sales
-Office: 914.948.8300 ext.129   Cell: 201.704.1516
+
 santaniello@mailinglists.com
 
 
 <h3> Aggregate Data </h3>
 
-Data on 2006 county bank shares 
+Data on 2006 county bank shares - <a href = "/files/pre_crisis_bank_share_county.dta"> here</a> 
 
-Data at lendertype-county-year level
+Data at lendertype-county-year level - <a href = "/files/county_year_lending.dta"> here</a>  - Includes total lending in each county year by all banks, all nonbanks (including FinTech lenders), and Fintech lenders. 
 
 
 <h3> Full code and data </h3>
