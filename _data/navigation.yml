@@ -5,15 +5,15 @@ main:
   
 #   - title: "Talks"
 #     url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
     
   - title: "Data"
     url: /data2/
               
   - title: "Blog"
     url: /data/
+     
+  - title: "Teaching"
+    url: /teaching/    
     
  # - title: "CV"
  #   url: /cv/
