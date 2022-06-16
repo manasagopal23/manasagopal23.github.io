@@ -44,7 +44,7 @@ Data at lendertype-county-year level - <a href = "/files/county_year_lending.dta
 
 <h3> Full code and data </h3>
 
-If you would like access to other non-properietary datasets or code files to replicate the results in the published version of the paper, please download the replication package available here - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CGBBYP
+If you would like access to other non-properietary datasets or code files to replicate the results in the published version of the paper, please download the replication package available <a href = https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CGBBYP"> here</a> 
 
 <h3> Further details </h3>
 
