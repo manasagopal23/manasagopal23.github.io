@@ -209,10 +209,10 @@ defaults:
       comments: false
       share: true
       related: true      
-  # _data
+  # _data2
   - scope:
       path: ""
-      type: data
+      type: data2
     values:
       layout: single
       author_profile: true
