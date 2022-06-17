@@ -3,11 +3,11 @@ main:
   - title: "Research"
     url: /research/
   
-  - title: "Publications"
-     url: /publications/    
+ # - title: "Publications"
+ #    url: /publications/    
     
-  - title: "Data"
-    url: /data2/
+ # - title: "Data"
+ #   url: /data2/
               
   - title: "Blog"
     url: /data/
