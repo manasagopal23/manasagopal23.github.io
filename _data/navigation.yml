@@ -9,11 +9,12 @@ main:
  # - title: "Data"
  #   url: /data2/
               
-  - title: "Blog"
-    url: /data/
      
   - title: "Teaching"
     url: /teaching/    
+    
+  - title: "Blog"
+    url: /data/
     
  # - title: "CV"
  #   url: /cv/
