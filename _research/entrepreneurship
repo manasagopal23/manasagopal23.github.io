@@ -1,0 +1,19 @@
+---
+title: "The Dark Side of Entrepreneurship"
+coauthor: Sudheer Chava, Manpreet Singh, Yafei Zhang
+collection: research
+excerpt: "<img src='/images/graph_ent_non_ent_bp_hazard_knn.png' height='1000' width='550' align='left'>Using matched business and personal administrative credit bureau data, we document the long-term negative consequences of entrepreneurship on entrepreneurs' personal credit. After starting a business, entrepreneurs experience an 18.93\% increase in default rates and a 38.10\% increase in personal bankruptcy filings compared to observably similar non-entrepreneurs. However, financially sophisticated entrepreneurs and entrepreneurs who incorporate businesses are less likely to be delinquent on loans or go bankrupt. Lower entry barriers to entrepreneurship through business-friendly state policies are associated with the entry of worse entrepreneurs and higher personal costs for entrepreneurs. The increase in personal borrowing, particularly non-mortgage borrowing, instead of business borrowing is associated with higher personal costs for entrepreneurs. Our results highlight some of the long-term costs of entrepreneurship for entrepreneurs.." 
+#date: 2021-09-01
+#presentations: "AFA(2021),  Nova SBE FinTech Conference, Swiss Winter Finance Conference on Financial Intermediation, Financial Intermediation Research Society (FIRS), Central Bank Research Association (CEBRA) Annual Meeting, European Finance Association (EFA), University of Missouri, Federal Reserve Board of Governors, Rutgers University, UIUC, UT Dallas, Kellogg School of Management, FDIC/ JFSR Bank Research Conference, Frankfurt School of Finance and Management, Central Bank of Ireland (scheduled), Fintech: Innovation, Inclusion, and Risks Conference 2022 (scheduled), Chicago Booth Symposium on Private Firms (scheduled)"
+paperurl: 'https://manasagopal.com/files/CGSZ.pdf'
+#slides: '/files/GS_2020_slides.pdf'
+#data: '/files/UCC_RFS.pdf'
+order: 2 
+  
+---
+
+<img src='/images/aggregate_lending.png'>
+
+</br>	We document that finance companies and FinTech lenders increased lending to small businesses after the 2008 financial crisis.  We show that most of the increase substituted for a reduction in lending by banks. In counties where banks had a larger market share before the crisis, finance companies and FinTech lenders increased their lending more. By 2016, the increase in finance company and FinTech lending almost perfectly offset the decrease in bank lending. We control for firms' credit demand by examining lending by different lenders to the same firm, by comparing firms within the same narrow industry, and by comparing firms pledging the same type of collateral. Consistent with the substitution of bank lending with finance company and FinTech lending, we find that reduced bank lending had no effect on employment, wages, new business creation, or business expansion. Our results show that finance companies and FinTech lenders are major suppliers of credit to small businesses and played an important role in the recovery from the 2008 financial crisis.</br>
+</br>
+<u><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3600068" target =_blank> Download Paper Here</u>
