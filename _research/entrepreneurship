@@ -5,7 +5,7 @@ collection: research
 excerpt: "<img src='/images/graph_ent_non_ent_bp_hazard_knn.png' height='1000' width='550' align='right'>Using matched business and personal administrative credit bureau data, we document the long-term negative consequences of entrepreneurship on entrepreneurs' personal credit. After starting a business, entrepreneurs experience an 18.93% increase in default rates and a 38.10% increase in personal bankruptcy filings compared to observably similar non-entrepreneurs. However, financially sophisticated entrepreneurs and entrepreneurs who incorporate businesses are less likely to be delinquent on loans or go bankrupt. Lower entry barriers to entrepreneurship through business-friendly state policies are associated with the entry of worse entrepreneurs and higher personal costs for entrepreneurs. The increase in personal borrowing, particularly non-mortgage borrowing, instead of business borrowing is associated with higher personal costs for entrepreneurs. Our results highlight some of the long-term costs of entrepreneurship for entrepreneurs." 
 #date: 2021-09-01
 presentations: "Georgia Tech (brownbag), Labor Finance Conference (2022)"
-paperurl: 'https://manasagopal.com/files/CGSZ.pdf'
+#paperurl: 'https://manasagopal.com/files/CGSZ.pdf'
 #slides: '/files/GS_2020_slides.pdf'
 #data: '/files/UCC_RFS.pdf'
 order: 1 
