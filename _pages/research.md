@@ -11,8 +11,7 @@ author_profile: true
 
 **Published Papers** 
 
-sme_lending.html 
-
+{% include base_path %}
 {% for post in site.publications reversed %}
   {% assign sortedPosts = site.publications | sort:'order' %}  
   {% include archive-single-research.html %}
