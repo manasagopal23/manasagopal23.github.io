@@ -17,6 +17,8 @@ author_profile: true
 {% endfor %}
 
 **Working Papers**
+
+{% include base_path %}
 {% for post in site.research_wp reversed %}
   {% assign sortedPosts = site.research_wp | sort:'order' %}  
   {% include archive-single-research.html %}
