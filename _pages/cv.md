@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 {% include base_path %}
-{% for post in site.researchpub reversed %} 
+{% for post in site.portfolio reversed %} 
 {% include archive-single-research.html %} 
 {% endfor %}
 
