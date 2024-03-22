@@ -10,11 +10,10 @@ author_profile: true
 {% include archive-single-research.html %} {% endfor %}
 
 **Published Papers** 
-test 
-{% include base_path %}
-{% for post in site.publications reversed %}
-  {% include archive-single-research.html %}
-{% endfor %}
+test 2
+{% for post in site.research reversed %} {% assign sortedPosts = site.research | sort:'order' %}
+{% include archive-single-research.html %} {% endfor %}
+
 
 **Working Papers**
 
