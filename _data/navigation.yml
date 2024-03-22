@@ -3,8 +3,8 @@ main:
   - title: "Research"
     url: /research/
   
- - title: "Research2"
-   url: /research/    
+ #- title: "Research2"
+ #  url: /research/    
     
  # - title: "Data"
  #   url: /data2/
@@ -16,8 +16,8 @@ main:
   - title: "Blog"
     url: /data/
     
- # - title: "CV"
- #   url: /cv/
+  - title: "CV"
+    url: /cv/
     
 #  - title: "Contact"
 #    url: /contact/
