@@ -10,8 +10,8 @@ author_profile: true
 {% include archive-single-research.html %} {% endfor %}
 
 **Published Papers** 
-test 2
-{% for post in site.research reversed %} {% assign sortedPosts = site.research | sort:'order' %}
+test 3
+{% for post in site.research reversed %} 
 {% include archive-single-research.html %} {% endfor %}
 
 
