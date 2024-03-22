@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Published Papers"
+permalink: /researchpub/
 author_profile: true
-redirect_from:
-  - /resume
 ---
-
 {% include base_path %}
+{% for post in site.researchpub reversed %} {% assign sortedPosts = site.researchpub | sort:'order' %}
+{% include archive-single-research.html %} {% endfor %}
 
-<a href= "https://manasagopal.com/files/Manasa_Gopal_CV.pdf"  target="_blank"> Download Full CV Here</a> 
