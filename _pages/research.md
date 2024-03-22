@@ -8,6 +8,3 @@ author_profile: true
 
 {% for post in site.research reversed %} {% assign sortedPosts = site.research | sort:'order' %}
 {% include archive-single-research.html %} {% endfor %}
-
-**Publications**
-testing
