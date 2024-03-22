@@ -5,6 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 {% include base_path %}
-{% for post in site.researchpub reversed %} {% assign sortedPosts = site.researchpub | sort:'order' %}
-{% include archive-single-research.html %} {% endfor %}
+{% for post in site.researchpub reversed %} 
+{% include archive-single-research.html %} 
+{% endfor %}
 
