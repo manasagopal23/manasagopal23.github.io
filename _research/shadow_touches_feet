@@ -4,10 +4,10 @@ coauthor: Viral Acharya, Maximilian Jager, Sascha Steffen
 #journal : "Revise & Resubmit, 2nd Round, Review of Financial Studies"
 collection: research
 #permalink: /research/nonbank_lending
-excerpt: "We document a new channel of risk transmission from the real estate market to the banking sector through the provision of liquidity insurance by banks to financial institutions. Using credit lines to Real Estate Investment Trusts (REITs) as a laboratory, we show that these linkages pose a major systemic risk to the banking sector.  We find that drawdown rates of REITs are higher than the ones of non-financial borrowers and more sensitive to aggregate, as well as sector-specific market stress. This translates into higher tail risk and lower stock market returns for banks more exposed to REITs. Surprisingly, banks do not price these risks and offer cheaper credit lines to REITs than to other borrowers. Our results highlight an alternate channel through which the recent stress in commercial real estate markets affects banks.  "
+excerpt: "We document a new channel of risk transmission from the real estate market to the banking sector through the provision of liquidity insurance by banks to financial institutions. Using credit lines to Real Estate Investment Trusts (REITs) as a laboratory, we show that these linkages pose a major systemic risk to the banking sector.  We find that drawdown rates of REITs are higher than the ones of non-financial borrowers and more sensitive to aggregate, as well as sector-specific market stress. This translates into higher tail risk and lower stock market returns for banks more exposed to REITs. Surprisingly, banks do not price these risks and offer cheaper credit lines to REITs than to other borrowers. Our results highlight an alternate channel through which the recent stress in commercial real estate markets affects banks."
 #date: 2021-05-31
 presentations: 
 #paperurl:
 #slides:
-order: 0   
+order: 1  
 ---
