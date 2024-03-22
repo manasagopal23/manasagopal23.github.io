@@ -10,8 +10,8 @@ author_profile: true
 {% include archive-single-research.html %} {% endfor %}
 
 **Published Papers** 
-test 3
-{% for post in site.research reversed %} 
+test 4
+{% for post in site.publications reversed %} 
 {% include archive-single-research.html %} {% endfor %}
 
 
